@@ -37,7 +37,7 @@
 - Analysis was Temperature (mean) focused
 
 ## V. Final Results
-  [View Full Presentation PDF]([[https://github.com/Shravaniis/ClimateWins/blob/main/05%20Sent%20to%20client/ClimateWins%20%20Final%20Presentation.pdf])
+   [View Full Presentation PDF](https://github.com/Shravaniis/ClimateWins/tree/main/05%20Sent%20to%20client)
 
 
   
