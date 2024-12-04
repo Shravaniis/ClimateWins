@@ -39,7 +39,7 @@
 ## V. Final Results
 [View Full Presentation PDF](https://github.com/Shravaniis/ClimateWins/blob/main/05%20Sent%20to%20client/CLimateWins%20final%20presentation.pdf)
    
-[View Proposal Strategy PDF](https://github.com/Shravaniis/ClimateWins/blob/main/05%20Sent%20to%20client/climatewins-proposal-strategy.pdf)
+[View Proposal Strategy PDF](https://github.com/Shravaniis/ClimateWins/blob/main/05%20Sent%20to%20client/climatewins-proposal-strategy_.pdf)
 
    
 
